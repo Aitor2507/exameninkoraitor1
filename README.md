@@ -12,11 +12,22 @@ En este proyecto veremos como utilizar lenguajes de programación para páginas 
 - JavaScript
 
 ## Instalación
-Primeramente utilizaremos el cmd y haremos los siguientes pasos:
+Primeramente utilizaremos el cmd y escribiremos los siguientes pasos:
 
-  '''bash
-git clone https://github.com/Aitor2507/exameninkoraitor1
-  '''
+- git clone https://github.com/Aitor2507/exameninkoraitor1
+
+- cd exameninkoraitor
+
+- npm install
+
+Y con eso tendríamos los archivos...
+
+## Contacto
+
+- **Nombre** : Aitor
+- **Correo** : sanchezherenciaaitor@gmail.com
+- **Github** : https://github.com/Aitor2507
+
 
 
 
